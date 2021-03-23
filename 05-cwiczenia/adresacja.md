@@ -1,3 +1,7 @@
+## Adresacja w sieciach
+
+![osi-iso](osi.svg)
+
 ## Struktura adresu IP
 
 ```192.168.100.192```
