@@ -84,7 +84,7 @@ W sieci pracują komputery biurowe oraz urządzenia siecowe współdzielące zas
       | **Serwer DHCP** | eth0 | `120.30.60.2/22` |
       | **Serwer DNS** | eth0 | `120.30.60.4/22` |`
     
-        Pod koniec, możemy sprawdzić czy wszystko działa dobrze i klient może usyzkać połączenie wewnętrzne w sieci korzystając z nazwy domenowej lub adresu IP, a także zewnętrzne (np. Google).
+        Pod koniec, możemy sprawdzić czy wszystko działa dobrze i klient może usyzkać połączenie wewnętrzne w sieci korzystając z nazwy domenowej lub adresu IP, a także zewnętrzne (np. Google itd).
 
       ![ping-client](screenshots/client-ping.png)
 
